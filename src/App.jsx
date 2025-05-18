@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import InputField from "./components/InputField";
-import GenerateButton from "./components/GenerateButton";
+import InputField from "./components/InputField/InputField";
+import GenerateButton from "./components/GenerateButton/GenerateButton";
 import "./App.css";
 
 function App() {
